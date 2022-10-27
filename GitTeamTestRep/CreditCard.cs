@@ -8,5 +8,7 @@ namespace GitTeamTestRep
 {
     class CreditCard
     {
+        public string cardNum { get; set; }
+        public string  password { get; set; }
     }
 }
