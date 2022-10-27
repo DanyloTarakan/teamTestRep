@@ -13,6 +13,7 @@ namespace GitTeamTestRep
             Person person = new Person();
             person.FisrtName = "f1";
             person.LastName = "l1";
+            Money money = new Money() { money = 1233.44 };
         }
     }
 }
