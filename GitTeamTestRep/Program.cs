@@ -14,6 +14,7 @@ namespace GitTeamTestRep
             person.FisrtName = "f1";
             person.LastName = "l1";
             Money money = new Money() { money = 1233.44 };
+            CreditCard creditCard = new CreditCard() {cardNum = "34561234", password = "dasd" };
         }
     }
 }
