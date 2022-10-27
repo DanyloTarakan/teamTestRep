@@ -10,6 +10,9 @@ namespace GitTeamTestRep
     {
         static void Main(string[] args)
         {
+            Person person = new Person();
+            person.FisrtName = "f1";
+            person.LastName = "l1";
         }
     }
 }
